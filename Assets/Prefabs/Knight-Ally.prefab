@@ -281,9 +281,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   range: 2
-  damage: 100
+  damage: 75
   speed: 1
-  timeBetweenShots: 1
+  timeBetweenShots: 0.5
   healthbar: 250
   healthBar: {fileID: 626324832879106183}
   health: 0

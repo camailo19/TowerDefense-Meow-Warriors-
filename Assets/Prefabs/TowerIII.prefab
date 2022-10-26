@@ -262,7 +262,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   range: 5
   damage: 100
-  timeBetweenShots: 5
+  timeBetweenShots: 2
   healthbar: 1000
   healthBar: {fileID: 7982625381118307405}
   health: 0
