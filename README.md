@@ -35,4 +35,20 @@ Información del Ganador
 
 ![5d7e86e3-c4a9-4f49-93c8-d5006253864e](https://user-images.githubusercontent.com/84298966/198123546-6ba4525c-568b-4e52-a076-5539cb98ea12.jpg)
 
+ ## Método Machine Learning
+ 
+ El metodo que escogi fue el Deep Reinforcement Learning
+ 
+ Este método funciona de tal manera en que las decisiones se hacen pormedio de intento y error que le permite a los agentes tomar decisiones de acuerdo a un input de datos lo que permite decidir que acciones tomar para optimizar un objetivo.
+ 
+ Es decir que se toma la mejor opción de acuerdo a ciertos estados previamente establecidos. Este metodo permite flexibilidad a la hora de realizar nuestras estrategias que nos permitan ganar contra la maquina-
+ 
+ ![1_ZZJ2FJFDNB9W-kdA2CfmTQ](https://user-images.githubusercontent.com/84298966/198126142-077d7d74-45d4-4e86-b0c0-9bee422c5f8e.png)
 
+Recuperado de: 
+
+Li, Y. (2017). Deep reinforcement learning: An overview. arXiv preprint arXiv:1701.07274.
+
+Sabater Bailón, A., Bobed Lisbona, C., & Mena Nieto, E. Enseñando al ordenador a jugar a videojuegos mediante aprendizaje profundo por refuerzo.
+
+ 
