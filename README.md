@@ -53,4 +53,8 @@ Li, Y. (2017). Deep reinforcement learning: An overview. arXiv preprint arXiv:17
 
 Sabater Bailón, A., Bobed Lisbona, C., & Mena Nieto, E. Enseñando al ordenador a jugar a videojuegos mediante aprendizaje profundo por refuerzo.
 
- 
+  ## Actualización 2
+  
+  Historial de Batalla para el desarrollo del modelo
+  
+![0ce7e411-6989-4c55-8866-f5a2151f1f3b](https://user-images.githubusercontent.com/84298966/199613998-b7dba283-a8c0-4317-8de0-e81be219df70.jpg)
