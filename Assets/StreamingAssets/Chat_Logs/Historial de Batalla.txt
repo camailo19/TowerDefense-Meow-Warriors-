@@ -1,0 +1,292 @@
+
+
+ ----------Formación Torres--------------
+
+Posición  (-17.9,0.9,0.0)Tipo de Torre: Principal
+ Posición (-17.9, -1.6, 0.0)Tipo de Torre:Torre 1
+ Posición (-15.3, 3.4, 0.0)Tipo de Torre:Torre 1
+ Posición (-15.3, 0.9, 0.0)Tipo de Torre:Torre 1
+ Posición (-12.7, 0.9, 0.0)Tipo de Torre:Torre 3
+ Posición (-12.7, 3.4, 0.0)Tipo de Torre:Torre 1
+ Posición (-12.7, -1.6, 0.0)Tipo de Torre:Torre 3
+ Número de Torres: 6
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-0.6, -0.8, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-0.6, -2.0, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-3.2, -2.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-3.2, 3.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, 0.5, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-1.9, -3.3, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, 4.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-3.2, -0.8, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-1.9, 0.5, 0.0) Tipo de Jugador: Gato Cazador
+ Numero de Jugadores: 9
+
+ ----------Resultado--------------
+
+ Ganaron las torres con 2unidades restantes y un tiempo de 40,86928
+
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-3.2, -2.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-0.6, -0.8, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-0.6, -2.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-3.2, 0.5, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, -3.3, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-0.6, 0.5, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, -2.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, 3.0, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, 4.3, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-3.2, -0.8, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-3.2, 4.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-0.6, 4.3, 0.0) Tipo de Jugador: Gato Guerrero
+ Numero de Jugadores: 12
+ ----------Resultado--------------
+
+ Ganaron los gatos con 9unidades restantes y un tiempo de 16,70798
+
+
+
+
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-0.6, 4.3, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-3.2, 3.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, 4.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-3.2, 0.5, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, 3.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, -0.8, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-0.6, -2.0, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-3.2, -2.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, -0.8, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, -3.3, 0.0) Tipo de Jugador: Gato Cazador
+ Numero de Jugadores: 10
+
+ ----------Resultado--------------
+
+ Ganaron las torres con 4unidades restantes y un tiempo de 64,43251
+
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-1.9, 3.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-3.2, -2.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-3.2, 4.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-3.2, -0.8, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, -2.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-1.9, -3.3, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, -0.8, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, -0.8, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-0.6, 4.3, 0.0) Tipo de Jugador: Gato Gobernante
+ Numero de Jugadores: 9
+
+ ----------Resultado--------------
+
+ Ganaron las torres con 4unidades restantes y un tiempo de 48,36288
+
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-1.9, 4.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, 0.5, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-3.2, 4.3, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-3.2, -0.8, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-3.2, -2.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-0.6, -0.8, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, -3.3, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-1.9, 3.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-1.9, -0.8, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-0.6, 4.3, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, -2.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-3.2, -3.3, 0.0) Tipo de Jugador: Gato Cazador
+ Numero de Jugadores: 12
+ ----------Resultado--------------
+
+ Ganaron los gatos con 9unidades restantes y un tiempo de 15,42609
+
+
+
+
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-3.2, -2.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-3.2, 4.3, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-1.9, -3.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-0.6, 4.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, 4.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, -2.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, 3.0, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-0.6, -3.3, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-3.2, 0.5, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-3.2, 3.0, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, 0.5, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-3.2, -0.8, 0.0) Tipo de Jugador: Gato Guerrero
+ Numero de Jugadores: 12
+
+ ----------Resultado--------------
+
+ Ganaron las torres con 2unidades restantes y un tiempo de 44,53377
+
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-0.6, 3.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-3.2, -2.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, 4.3, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-0.6, -2.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-3.2, -3.3, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-0.6, 0.5, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-3.2, 0.5, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, 3.0, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, -0.8, 0.0) Tipo de Jugador: Gato Gobernante
+ Numero de Jugadores: 9
+
+ ----------Resultado--------------
+
+ Ganaron las torres con 2unidades restantes y un tiempo de 53,35394
+
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-3.2, -3.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, 0.5, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, -0.8, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, -0.8, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-0.6, 3.0, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-1.9, -3.3, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, 4.3, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-3.2, 3.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-1.9, 4.3, 0.0) Tipo de Jugador: Gato Guerrero
+ Numero de Jugadores: 9
+
+ ----------Resultado--------------
+
+ Ganaron las torres con 4unidades restantes y un tiempo de 39,50146
+
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-1.9, 0.5, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-3.2, 3.0, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-3.2, -2.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, 0.5, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, -0.8, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-0.6, -3.3, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-3.2, -3.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, -2.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-3.2, 0.5, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-0.6, -2.0, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, -3.3, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-1.9, 4.3, 0.0) Tipo de Jugador: Gato Cazador
+ Numero de Jugadores: 12
+ ----------Resultado--------------
+
+ Ganaron los gatos con 9unidades restantes y un tiempo de 18,30511
+
+
+
+
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-3.2, -2.0, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-3.2, -0.8, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-3.2, 4.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, -0.8, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-3.2, -3.3, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, 3.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, 0.5, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-1.9, -3.3, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, -0.8, 0.0) Tipo de Jugador: Gato Guerrero
+ Numero de Jugadores: 9
+
+ ----------Resultado--------------
+
+ Ganaron las torres con 5unidades restantes y un tiempo de 39,55576
+
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-3.2, 4.3, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, 3.0, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-3.2, -3.3, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-3.2, -0.8, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-3.2, -2.0, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-0.6, -2.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, -2.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-0.6, -0.8, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-1.9, 0.5, 0.0) Tipo de Jugador: Gato Mago
+ Numero de Jugadores: 9
+
+ ----------Resultado--------------
+
+ Ganaron las torres con 2unidades restantes y un tiempo de 51,80261
+
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-3.2, 3.0, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-3.2, -3.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-0.6, -2.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-3.2, 4.3, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, -3.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-0.6, 4.3, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-0.6, 0.5, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-0.6, -0.8, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-3.2, -2.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-1.9, -2.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-0.6, -3.3, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-1.9, -0.8, 0.0) Tipo de Jugador: Gato Guerrero
+ Numero de Jugadores: 12
+ ----------Resultado--------------
+
+ Ganaron los gatos con 10unidades restantes y un tiempo de 18,85532
+
+
+
+
+
+ ----------Nueva Partida--------------
+
+ ----------Formación Jugadores--------------
+
+  Posición: (-3.2, -0.8, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-3.2, 0.5, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-1.9, -3.3, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-0.6, -2.0, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, -2.0, 0.0) Tipo de Jugador: Gato Guerrero
+  Posición: (-0.6, 0.5, 0.0) Tipo de Jugador: Gato Gobernante
+  Posición: (-1.9, 3.0, 0.0) Tipo de Jugador: Gato Cazador
+  Posición: (-0.6, -0.8, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-3.2, 3.0, 0.0) Tipo de Jugador: Gato Mago
+  Posición: (-1.9, -0.8, 0.0) Tipo de Jugador: Gato Guerrero
+ Numero de Jugadores: 10

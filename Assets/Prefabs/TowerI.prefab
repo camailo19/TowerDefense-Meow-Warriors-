@@ -261,8 +261,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   range: 3
-  damage: 20
+  damage: 50
   timeBetweenShots: 0.5
-  healthbar: 3000
+  healthbar: 5000
   healthBar: {fileID: 2976681760134564624}
   health: 0

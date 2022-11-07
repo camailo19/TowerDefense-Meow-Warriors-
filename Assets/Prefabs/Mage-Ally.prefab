@@ -297,6 +297,6 @@ MonoBehaviour:
   damage: 200
   speed: 1
   timeBetweenShots: 1
-  healthbar: 200
+  healthbar: 400
   healthBar: {fileID: 1873196971156634764}
   health: 0

@@ -1,16 +1,16 @@
- Posición (-3.2, -0.8, 0.0) Tipo de Jugador: Gato Gobernante
- Posición (-1.9, 3.0, 0.0) Tipo de Jugador: Gato Guerrero
- Posición (-3.2, 3.0, 0.0) Tipo de Jugador: Gato Cazador
+ Posición (-3.2, -0.8, 0.0) Tipo de Jugador: Gato Mago
  Posición (-3.2, 0.5, 0.0) Tipo de Jugador: Gato Guerrero
- Posición (-0.6, 0.5, 0.0) Tipo de Jugador: Gato Mago
- Posición (-3.2, 4.3, 0.0) Tipo de Jugador: Gato Guerrero
- Posición (-1.9, 4.3, 0.0) Tipo de Jugador: Gato Gobernante
- Posición (-1.9, -0.8, 0.0) Tipo de Jugador: Gato Cazador
- Posición (-1.9, -2.0, 0.0) Tipo de Jugador: Gato Cazador
- Posición (-0.6, -3.3, 0.0) Tipo de Jugador: Gato Cazador
- Posición (-1.9, 0.5, 0.0) Tipo de Jugador: Gato Gobernante
- Posición (-0.6, 4.3, 0.0) Tipo de Jugador: Gato Guerrero
-Numero de Jugadores: 12
+ Posición (-1.9, -3.3, 0.0) Tipo de Jugador: Gato Guerrero
+ Posición (-0.6, -2.0, 0.0) Tipo de Jugador: Gato Gobernante
+ Posición (-1.9, -2.0, 0.0) Tipo de Jugador: Gato Guerrero
+ Posición (-0.6, 0.5, 0.0) Tipo de Jugador: Gato Gobernante
+ Posición (-1.9, 3.0, 0.0) Tipo de Jugador: Gato Cazador
+ Posición (-0.6, -0.8, 0.0) Tipo de Jugador: Gato Mago
+ Posición (-3.2, 3.0, 0.0) Tipo de Jugador: Gato Mago
+ Posición (-1.9, -0.8, 0.0) Tipo de Jugador: Gato Guerrero
+Numero de Jugadores: 10
+
+
 
 
 
